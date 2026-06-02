@@ -58,6 +58,21 @@ Speak simultaneously with the source audio and stay aligned with the speaker's s
 Use a paragraph as a unit.  
 If you can complete a whole paragraph steadily, that round passes.
 
+#### How to choose training materials
+
+Start with materials that include **audio + transcript**. Work-related content is best; for beginners, daily-life or travel topics are also fine.
+
+Good sources include:
+
+- Listening practice apps (with transcripts)
+- Shadowing courses on video platforms
+- TV series (choose clear dialogues, moderate speed, and easy-to-find transcripts)
+
+Selection rules:
+
+- Do not pick content that is too hard: **no more than 2 new words per sentence**
+- Short sentences with clear pauses, so you can repeat sentence by sentence
+
 #### Listening + speaking notes
 
 - Understanding usually starts from being able to read and say it correctly.
